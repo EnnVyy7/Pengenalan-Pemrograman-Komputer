@@ -1,1 +1,9 @@
 D:\Nicholas Valdinata_PK\Latihan1\Latihan1\bin\Debug\Latihan1.exe.config
+D:\Nicholas Valdinata_PK\Latihan1\Latihan1\bin\Debug\Latihan1.exe
+D:\Nicholas Valdinata_PK\Latihan1\Latihan1\bin\Debug\Latihan1.pdb
+D:\Nicholas Valdinata_PK\Latihan1\Latihan1\obj\Debug\Latihan1.csprojResolveAssemblyReference.cache
+D:\Nicholas Valdinata_PK\Latihan1\Latihan1\obj\Debug\Latihan1.Form1.resources
+D:\Nicholas Valdinata_PK\Latihan1\Latihan1\obj\Debug\Latihan1.Properties.Resources.resources
+D:\Nicholas Valdinata_PK\Latihan1\Latihan1\obj\Debug\Latihan1.csproj.GenerateResource.Cache
+D:\Nicholas Valdinata_PK\Latihan1\Latihan1\obj\Debug\Latihan1.exe
+D:\Nicholas Valdinata_PK\Latihan1\Latihan1\obj\Debug\Latihan1.pdb
