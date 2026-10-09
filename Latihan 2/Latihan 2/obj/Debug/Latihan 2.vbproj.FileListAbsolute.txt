@@ -1,1 +1,11 @@
 D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\bin\Debug\Latihan 2.exe.config
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\bin\Debug\Latihan 2.exe
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\bin\Debug\Latihan 2.pdb
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\bin\Debug\Latihan 2.xml
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\obj\Debug\Latihan 2.vbprojResolveAssemblyReference.cache
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\obj\Debug\Latihan_2.Form1.resources
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\obj\Debug\Latihan_2.Resources.resources
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\obj\Debug\Latihan 2.vbproj.GenerateResource.Cache
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\obj\Debug\Latihan 2.exe
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\obj\Debug\Latihan 2.xml
+D:\Pengenalan-Pemrograman-Komputer\Latihan 2\Latihan 2\obj\Debug\Latihan 2.pdb
